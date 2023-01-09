@@ -50,6 +50,10 @@ git clone https://github.com/KaranChandekar/weather-app.git
 - Just Type the city name you want to know the weather of, and then click on the search button.
 - After that it will automatically display Weather, Humidity, Wind Speed of the enered city.
 
+## Demo
+
+https://user-images.githubusercontent.com/93200960/211342988-ed98b7b5-e697-496f-84ec-949a8445b3a3.mp4
+
 ## Contribution
 
 Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
